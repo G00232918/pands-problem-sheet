@@ -1,6 +1,6 @@
 # pands-problem-sheet
 
-# Task 1 - Calculcate BMI
+# Task 1 - Calculate BMI
 
 ## General info
 Calculating someone's BMI using Python.
