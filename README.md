@@ -54,3 +54,42 @@ https://www.w3schools.com/python/ref_func_float.asp
 * https://realpython.com/reverse-string-python/
 * https://www.youtube.com/watch?v=6ZNCekqB3vw
 
+
+## Task 3 - # A program that asks the user to input any positive integer and outputs the successive values of the calculation. ## 
+
+## General Info
+* At each step calculate the next value by taking the current value and, if it is even,
+* divide by two, but if it is odd, multiply it by three and add one.
+* Have the program end if the current value is one.
+
+## Filename - collatz.py
+
+## How to input any positive integer and outputs the successive values of the calculation.
+* Define the collatz function as per the general info.
+* Request the user to input the postive integer.
+* Once inputted the while loop will calculate based on the number chosen.
+* Then when the while loop reaches 1, the program closes.
+
+## Technologies
+* Visio
+
+## Commands used
+* def
+* if
+* elif
+* modulus - %
+* multiply - *
+* divide - \
+* print
+* while
+* return
+
+## Sources
+* https://www.w3schools.com/python/python_while_loops.asp
+* https://www.codecademy.com/forum_questions/51684a3d4ce76309b4001b9c#:~:text=elif...else%20statements%20introduce,instead%20if%20a%20is%20False%20.
+* https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
+
+
+
+
+
