@@ -90,6 +90,29 @@ https://www.w3schools.com/python/ref_func_float.asp
 * https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
 
 
+### Task 4 - Write a program that outputs whether or not today is a weekday.###
+
+## General info
+Program to return if today is weekday / weekend day.
+
+# Filename - weekday.py
+
+## How to reurn the day type
+*Run the python in the terminal it will return the answer.
+
+## Technologies
+* Visio
+
+## Commands used
+* print
+* datetime
+* if
+* else
+
+## Sources
+* https://www.w3schools.com/python/python_datetime.asp
+* https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
+
 
 
 
