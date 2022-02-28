@@ -114,5 +114,40 @@ Program to return if today is weekday / weekend day.
 * https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date
 
 
+### Task 4 - A program that takes a positive floating-point number as input and outputs an approximation of its square root.###
+
+## General info
+The method used is based on Newtons square root method as mentioned in the task.
+
+# Filename - squareRoot.py
+
+## How to reurn the approximate square root
+* Request the user to input the positive float number.
+* Create function to ensure a postive float number is chosen at the beginning.
+* Create funciton based on Newtons square root method.
+* Inside the sqRt function set the float value, with the number of iterations needed to return an approx square root.
+* Call the functions in an if statement to print the results or the message to enter a postive number.
+
+## Technologies
+* Visio
+
+## Commands used
+* print
+* functions
+* if
+* else
+* for 
+* in
+* return
+* round
+
+## Sources
+* https://www.school-for-champions.com/algebra/square_root_approx.htm#.Yhqb4ujP3IX
+* https://medium.com/@sddkal/newton-square-root-method-in-python-270853e9185d
+* https://www.w3schools.com/python/python_functions.asp
+* https://stackoverflow.com/questions/55232484/newtons-method-for-approximating-square-roots
+
+
+
 
 
