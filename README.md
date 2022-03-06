@@ -29,7 +29,7 @@ https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
 https://www.w3schools.com/python/ref_func_float.asp
 
 
-## Task 2 - Reverse and output every second letter of string ##
+### Task 2 - Reverse and output every second letter of string ###
 
 ## General Info
 * A program that requests a user to input a string and outputs every second 
@@ -147,7 +147,33 @@ The method used is based on Newtons square root method as mentioned in the task.
 * https://www.w3schools.com/python/python_functions.asp
 * https://stackoverflow.com/questions/55232484/newtons-method-for-approximating-square-roots
 
+### Task 5 -  A program that reads in a text file and outputs the number of e's it contains.###
 
+## General info
+* Create the file and pull from the command line. 
+
+# Filename - es.py
+
+## How to reurn the approximate square root
+* Import the module sys, to be able to pull from the command line.
+* Call the file.
+* Use the command to read the file. 
+* Then use the count command to read how many es are in the text file.
+* Print the results at the end.
+
+## Technologies
+* Visio
+
+## Commands used
+* print
+* functions
+* with open
+* count
+
+## Sources
+* https://www.w3schools.com/python/python_file_handling.asp
+* https://stackoverflow.com/questions/36726767/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python
+* https://www.w3schools.com/python/ref_list_count.asp
 
 
 
