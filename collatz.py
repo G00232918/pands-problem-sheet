@@ -3,8 +3,7 @@
 # At each step calculate the next value by taking the current value and, if it is even,
 # divide by two, but if it is odd, multiply it by three and add one.
 # Have the program end if the current value is one.
-
-# requests the user to input a postive integer
+# Author: James Connolly
 
 def collatz(number):
     # modulus command to confirm is the number even
