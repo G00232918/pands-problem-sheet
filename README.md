@@ -150,6 +150,7 @@ The method used is based on Newtons square root method as mentioned in the task.
 * https://www.w3schools.com/python/python_file_handling.asp
 * https://stackoverflow.com/questions/36726767/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python
 * https://www.w3schools.com/python/ref_list_count.asp
+* https://www.w3schools.com/python/python_try_except.asp
 
 ### Task 8 -  A program that displays a plot of functions.###
 
