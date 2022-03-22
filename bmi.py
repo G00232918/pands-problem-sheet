@@ -11,12 +11,14 @@ name = input("enter your name:")
 print("Hello " + name)
 
 # enter your weight
-# Use int to format for numbers
-weight = int(input("input your weight in Kilogram: "))
+# Use float numbers to give user option to put in more
+# accurate weights
+weight = float(input("input your weight in Kilogram: "))
 
 # enter your height
-# Use int to format for numbers
-height = int(input("Input your height in cm: "))
+# Use float numbers to give user option to put in more
+# accurate height details
+height = float(input("Input your height in cm: "))
 
 # BMI calculation 
 # BMI answer rounded to decimal places with the round fucntion before calculation
