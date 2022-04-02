@@ -11,7 +11,7 @@ Create Github account with repository for the module tasks.
 * Go to github create your account and repository.
 * Select the repository.
 * Select code then go to SSH and copy the URL.
-* Clone the URL into the irectory where you have your files.
+* Clone the URL into your directory where you have your files.
 * Then Add, Commit and Push files into the directory.
 
 ## Technologies
@@ -34,7 +34,6 @@ Calculating someone's BMI using Python.
 * The BMI is (kg/m2).
 
 ## Technologies
-BMI calculated using:
 * Visio
 
 ## Sources
@@ -47,13 +46,13 @@ https://www.w3schools.com/python/ref_func_float.asp
 ### Task 3 - Reverse and output every second letter of string ###
 
 ## General Info
-* A program that requests a user to input a string and outputs every second 
-* letter in reverse order.
+* A program that requests a user to input a string and outputs every second letter in reverse order.
 
 ## Filename - secondstring.py
 
 ## How to reverse a string and output every second letter
-* Enter the sentence to be reversed - The quick brown fox jumps over the lazy dog.
+* Enter the sentence to be reversed - The quick brown fox jumps over the lazy dog. The the answer is outputted
+once the input is run.
 
 ## Technologies
 * Visio

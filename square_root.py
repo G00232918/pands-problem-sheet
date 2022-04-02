@@ -12,7 +12,7 @@ def positveNum(number):
         return False
 
 # function based on Newtons square root method
-def sqRt(value): 
+def sqrt(value): 
  # take te float value, can be taken as the guess   
     a = float(value)
 

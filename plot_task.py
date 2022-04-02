@@ -8,7 +8,7 @@ import numpy as np
 #import matplotlib for plotting on graph
 import matplotlib.pyplot as plt
 
-def plotsFunc():
+def plots_func():
     # setting up the range
     xpoints = np.array(range(0,5))
     # f(x) = x
@@ -20,7 +20,7 @@ def plotsFunc():
 
     # fpoints plotted, marker o to plot the variable value for each
     plt.plot(fpoints, marker = "o", color="r", label ="f(x) = x")
-    #gpoints plotted, line dashed and linewidth set different
+    # gpoints plotted, line dashed and linewidth set different
     plt.plot(gpoints, marker = "o", color="b", label ="g(x) = x2", linestyle = "dashed", linewidth=2)
     # hpoints plotted, linewidth set to higher than other plots
     plt.plot(hpoints, marker = "o", color="y", label ="h(x) = x3", linewidth=5)
@@ -37,6 +37,6 @@ def plotsFunc():
     plt.savefig(fname="PlottingTask.png")
     plt.show()
 
-plotsFunc()
+plots_func()
     
     

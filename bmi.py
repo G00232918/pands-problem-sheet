@@ -7,7 +7,7 @@
 # The BMI is (kg/m2) 20.06
 
 # Print person's name
-name = input("enter your name:")
+name = input("enter your name: ")
 print("Hello " + name)
 
 # enter your weight
@@ -21,8 +21,8 @@ weight = float(input("input your weight in Kilogram: "))
 height = float(input("Input your height in cm: "))
 
 # BMI calculation 
-# BMI answer rounded to decimal places with the round fucntion before calculation
-# Round command used to round up the answer to 2 decimal places in this example
+# BMI answer rounded to 2 decimal places with the 
+# round function before calculation
 print ("Your BMI is =", round(weight / (height/100)**2, 2))
 
 
